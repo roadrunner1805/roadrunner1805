@@ -41,4 +41,4 @@ I build at the intersection of full-stack software engineering, space-domain dat
 ### 📫 Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Email:** [your.email@uccs.edu](mailto:your.email@uccs.edu)
+* **Email:** [ethansoc18@gmail.com](mailto:ethansoc18@gmail.com)
