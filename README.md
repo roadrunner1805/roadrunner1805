@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**roadrunner1805/roadrunner1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Engineer at **Concrete Engine** and SOC Analyst for the **State of Colorado**, studying Information Systems at the **University of Colorado Colorado Springs**. President of the **UCCS AIS Chapter**.
 
-Here are some ideas to get you started:
+I build at the intersection of full-stack software engineering, space-domain data science, and defensive security operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech & Tooling
+
+* **Languages:** Python, SQL, JavaScript, PHP, HTML5, CSS3
+* **Data & Machine Learning:** Pandas, NumPy, Scikit-learn (Isolation Forest, k-NN), SGP4 Propagation
+* **Domains & Systems:** Defensive Security Operations (SOC), Predictive Analytics, Automation Workflows
+
+---
+
+### 🚀 Highlighted Projects
+
+* **[SGP4 Orbital Anomaly Detection](https://github.com/roadrunner1805/Data-Mine-American-Systems/blob/main/isolation_sgp_model.ipynb)**  
+  Applied space threat characterization pipeline engineered with The Data Mine of the Rockies in support of the U.S. Space Force. Leverages SGP4 propagation and TLE datasets with an Isolation Forest ensemble to detect GEO orbital anomalies, mapping findings to SPARTA and MITRE ATT&CK for Space matrices.
+
+* **[NFL Playoff Predictive Model](https://github.com/roadrunner1805/ML/blob/main/NFL_Playoff_Machine_Learning.ipynb)**  
+  Postseason sports analytics system utilizing dynamic ELO ratings, season metric feature engineering, and supervised classification to simulate matchups and forecast NFL playoff outcomes.
+
+* **[LinkedIn Job Alerts Automation](https://github.com/roadrunner1805/linkedin-job-alerts)**  
+  Automated monitoring and notification pipeline designed to track, filter, and dispatch targeted opportunities in real time to streamline technical internship and early-career role searches.
+
+* **[30 Days of SQL Challenge](https://github.com/roadrunner1805/30-Days-sql-challenge)**  
+  Open-source curriculum and hands-on repository built to help students and aspiring analysts master SQL through structured daily exercises covering aggregations, joins, subqueries, and window functions.
+
+---
+
+### 🔭 Current Focus
+
+* 💻 Full-stack system architecture and backend engineering
+* 🤖 Production-ready pipelines for applied machine learning and generative workflows
+* 🛡️ Bridging SOC defensive security principles into resilient software design
+
+---
+
+### 📫 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **Email:** [your.email@uccs.edu](mailto:your.email@uccs.edu)
