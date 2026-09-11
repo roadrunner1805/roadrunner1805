@@ -40,5 +40,5 @@ I build at the intersection of full-stack software engineering, space-domain dat
 
 ### 📫 Connect With Me
 
-* **LinkedIn:** []([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ethan-nordman-528361290/))
+* **LinkedIn:** [Ethan Nordman]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ethan-nordman-528361290/))
 * **Email:** [ethansoc18@gmail.com](mailto:ethansoc18@gmail.com)
