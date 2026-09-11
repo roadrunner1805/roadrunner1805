@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Ethan 👋
 
 Junior Software Engineer at **Concrete Engine** and SOC Analyst for the **State of Colorado**, studying Information Systems at the **University of Colorado Colorado Springs**. President of the **UCCS AIS Chapter**.
 
