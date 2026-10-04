@@ -1,8 +1,6 @@
 # Hi, I'm Ethan 👋
 
-Junior Software Engineer at **Concrete Engine** and SOC Analyst for the **State of Colorado**, studying Information Systems at the **University of Colorado Colorado Springs**. President of the **UCCS AIS Chapter**.
-
-I build at the intersection of full-stack software engineering, space-domain data science, and defensive security operations.
+SWE Intern at **Concrete Engine** studying Information Systems at the **University of Colorado Colorado Springs**. President of the **UCCS AIS Chapter**.
 
 ---
 
