@@ -30,7 +30,7 @@ SWE Intern at **Concrete Engine** studying Information Systems at the **Universi
 
 ### 🔭 Current Focus
 
-* 💻 Full-stack system architecture and backend engineering
+* 💻 SQl skills for database architecture and data analysis
 * 🤖 Production-ready pipelines for applied machine learning and generative workflows
 * 🛡️ Bridging SOC defensive security principles into resilient software design
 
